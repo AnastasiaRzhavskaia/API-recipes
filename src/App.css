@@ -28,6 +28,7 @@ body {
 }
 .layer {
     background-color: rgba(0,0,0,0.5);
+    height: 70vh;
 }
 .header-text {
     padding: 100px;
